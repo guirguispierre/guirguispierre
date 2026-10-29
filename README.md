@@ -1,24 +1,26 @@
-### Hi, I'm Pierre 👋
+hey, i'm pierre.
 
-Computer engineering student at **SF State**, building at **[Cognition](https://cognition.ai)**. I like shipping small, sharp tools — MCP servers, agent infrastructure, iOS apps, and the occasional bare-metal experiment.
+compe at sf state. i build at [cognition](https://cognition.ai). somewhere in between i ship mcp servers nobody asked for and then use them every day.
 
-🌐 [guirguis.dev](https://guirguis.dev) · 📍 San Francisco
+i live at [guirguis.dev](https://guirguis.dev). san francisco, mostly.
 
-#### Things I've built
+### stuff i made that actually works
 
-| Project | What it is |
-| --- | --- |
-| [**memoryvault**](https://github.com/guirguispierre/memoryvault) | Self-hosted, graph-aware memory server for AI assistants (Cloudflare Workers + D1 + MCP) |
-| [**DevinDesktopCUA**](https://github.com/guirguispierre/DevinDesktopCUA) | macOS computer-use for agents — screenshots, clicks, typing, an on-screen agent cursor; one Swift binary |
-| [**sfsu-agents**](https://github.com/guirguispierre/sfsu-agents) | Agent-friendly toolkit for SFSU's public class search and course catalog |
-| [**poke-chat**](https://github.com/guirguispierre/poke-chat) | Self-hosted MCP relay + React UI that turns Poke into a multi-session study chatbot |
-| [**pokedex**](https://github.com/guirguispierre/pokedex) | Discord bot for engineering triage, issue tracking, and feedback, with MCP agent integration |
-| [**spotifyMCP**](https://github.com/guirguispierre/spotifyMCP) | Remote Spotify MCP server on Cloudflare with OAuth and per-user tokens |
-| [**Atomic-1Bit**](https://github.com/guirguispierre/Atomic-1Bit) | 1.58-bit ternary inference engine for bare-metal devices |
-| [**bit-chat**](https://github.com/guirguispierre/bit-chat) | A tiny LLM that runs entirely in your browser over WebGPU |
+- **[memoryvault](https://github.com/guirguispierre/memoryvault)**: your ai forgets everything. this doesn't. a graph-aware memory server on cloudflare workers + d1, over mcp.
+- **[DevinDesktopCUA](https://github.com/guirguispierre/DevinDesktopCUA)**: lets an agent drive a mac. screenshots, clicks, typing, a little cursor so you can watch it judge your desktop. one swift binary.
+- **[sfsu-agents](https://github.com/guirguispierre/sfsu-agents)**: sfsu's class search, but agents can read it. registration is still your problem.
+- **[poke-chat](https://github.com/guirguispierre/poke-chat)**: turns poke into a study buddy with latex and image uploads. it'll still roast your notes.
+- **[pokedex](https://github.com/guirguispierre/pokedex)**: a discord bot that triages bugs so humans don't have to pretend they read every report.
+- **[spotifyMCP](https://github.com/guirguispierre/spotifyMCP)**: your agent can queue songs now. your taste is not my responsibility.
+- **[Atomic-1Bit](https://github.com/guirguispierre/Atomic-1Bit)**: 1.58-bit ternary inference on bare metal. models on a diet.
+- **[bit-chat](https://github.com/guirguispierre/bit-chat)**: a tiny llm that runs entirely in your browser. no server, no api key, no excuses.
 
-More MCP servers: [latex-mcp](https://github.com/guirguispierre/latex-mcp) · [canvasMCP](https://github.com/guirguispierre/canvasMCP) · [yttranscriptmcp](https://github.com/guirguispierre/yttranscriptmcp) · [bartMCP](https://github.com/guirguispierre/bartMCP) · [pdf-reader-mcp](https://github.com/guirguispierre/pdf-reader-mcp)
+### more mcp servers, because apparently that's my personality
 
-#### Stack
+[latex-mcp](https://github.com/guirguispierre/latex-mcp) · [canvasMCP](https://github.com/guirguispierre/canvasMCP) · [yttranscriptmcp](https://github.com/guirguispierre/yttranscriptmcp) · [bartMCP](https://github.com/guirguispierre/bartMCP) · [pdf-reader-mcp](https://github.com/guirguispierre/pdf-reader-mcp)
 
-TypeScript · Python · Swift · C · Cloudflare Workers · React · Next.js · STM32
+### what i write it in
+
+typescript, python, swift, c when an stm32 makes me. cloudflare workers for basically everything.
+
+if something here's broken, open an issue. i'll get to it. eventually.
