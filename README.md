@@ -1,4 +1,4 @@
-hey, i'm pierre.
+hey, i'm pierre guirguis.
 
 compe at sf state. i build at [cognition](https://cognition.ai). somewhere in between i ship stuff nobody asked for and then use it every day.
 
@@ -15,3 +15,5 @@ i live at [guirguis.dev](https://guirguis.dev). san francisco, mostly.
 - **[bit-chat](https://github.com/guirguispierre/bit-chat)**: a tiny llm that runs entirely in your browser. no server, no api key, no excuses. built for the handshake codex competition and the sfsu student ai awards.
 
 if something here's broken, open an issue. i'll get to it. eventually.
+
+elsewhere: [linkedin](https://www.linkedin.com/in/pierre-guirguis-a21897278) · [x](https://x.com/guirguispierre) · [scrobblecloud](https://scrobblecloud.com)
